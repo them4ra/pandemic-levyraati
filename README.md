@@ -8,3 +8,12 @@ The site has been developed ever since, with features being added as users have 
 I am sharing this not to be some shining example of a coding project, but the exact opposite. I want to show you a project I worked on for years on my spare time that I spent little time worrying about writing code consistently or using best practises. I wanted to create something that works and that my friends could use. Instead of being paralyzed by fear of making mistakes and not writing code properly, I just sat down and wrote something.  
 
 This is the only coding project I worked on in my free time that was directly useful to others and despite it being a mess, it has a special place in my heart. I learned so much working on this site and will know what mistakes to look out for in the future because I made them all here.  
+
+# Features that have been added over the years
+- New user creation page with a definable invite code.
+- Various pages with various statistics about songs ratings.
+- Various "Best Of" list, including Best of the Year pages.
+- Various user statistics are available.
+- Each week a user defines a theme under which songs are listed and themes can be listed in order and songs within themes can be ranked.
+- A Feature Request system with basic ticketing functions.
+- Songs are listed as YouTube links and the site can grab thumbnails of the videos.
