@@ -72,7 +72,7 @@ if (isset($_SESSION['logged_in_levy'])) {
         </div>
         </a>
         <p></p>
-        <a href="https://docs.google.com/spreadsheets/d/1TEbS4pMf0aL-uk9gsn8PYaiU7KDTqTkxFVxJdmR0v5w/edit#gid=0">
+        <a href="LINK TO GOOGLE SHEETS">
         <div class="commentbutton">
           <center>
         <h5><br>&#128081; SIMO'S A FREAK IN THE SHEETS &#128081;<br><br></h5>
