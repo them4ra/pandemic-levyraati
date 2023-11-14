@@ -16,6 +16,8 @@ The site has a user creation page hidden inside the index page where a user can 
 
 The site lists all the songs rated and keeps a song up for 24 hours after which the song vanishes from the rating list. A seperate page gived the best and worst song rated in the last 24 hours along with a top 10. 
 
+This site was meant for only myself and 3 friends and so has no limiting features to prevent posting songs endlessly. I had created a fork of this site originally for a more public audience that supported comments, a 24 hour shuffle of posted songs and limited users to posting 1 song a day. 
+
 # Features that have been added over the years
 - New user creation page with a definable invite code.
 - Various pages with various statistics about songs ratings.
@@ -25,4 +27,8 @@ The site lists all the songs rated and keeps a song up for 24 hours after which 
 - Songs within themes can be ranked from best to worst.
 - A Feature Request system with basic ticketing functions.
 - Songs are listed as YouTube links and the site can grab thumbnails of the videos.
-- Simple recommendation system based on given scores. 
+- Simple recommendation system based on given scores.
+
+# Ideas for the future
+In retrospect, instead of having a 0-10 rating, a thumbs up/thumbs down rating system might be a little better, with double thumbs up/ double thumbs down for songs you really liked. By user request I am retaining the 0-10 rating system though.
+I would also like to leverage the YouTube API more to get more information into the Pandemic Levyraati pages.
