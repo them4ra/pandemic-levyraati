@@ -1,3 +1,5 @@
+![image](https://github.com/them4ra/pandemic-levyraati/assets/24626919/e6fab20a-9966-443d-b60c-12a052edfad7)
+
 # Pandemic Levyraati
 In the beginning of 2020 the whole world locked down and people were not able to leave their homes. During this time, me and two friends began meeting on Saturdays via videochat and rated songs. After doing this for one night and keeping score on an Excel sheet, I thought it would be a cool exercise to create a CRUD application in PHP and MySQL to keep score of the ratings we gave songs. 
 
