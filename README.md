@@ -25,3 +25,4 @@ The site lists all the songs rated and keeps a song up for 24 hours after which 
 - Songs within themes can be ranked from best to worst.
 - A Feature Request system with basic ticketing functions.
 - Songs are listed as YouTube links and the site can grab thumbnails of the videos.
+- Simple recommendation system based on given scores. 
