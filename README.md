@@ -32,5 +32,6 @@ This site was meant for only myself and 3 friends and so has no limiting feature
 - Simple recommendation system based on given scores.
 
 # Ideas for the future
+The very first thing that this site desperately needs is reorganizing and refactoring the code. The pages are not organized in any way and there are a lot of features that were written quickly just to get something functional out and not written with maintainability or efficiency in mind. Just cleaning up the page layouts and standardizing the pages will go a long way to making this approachable.
 In retrospect, instead of having a 0-10 rating, a thumbs up/thumbs down rating system might be a little better, with double thumbs up/ double thumbs down for songs you really liked. By user request I am retaining the 0-10 rating system though.
 I would also like to leverage the YouTube API more to get more information into the Pandemic Levyraati pages.
